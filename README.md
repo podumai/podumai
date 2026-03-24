@@ -17,6 +17,14 @@
 
 <hr>
 
+<h3>Competitive programming: Jewish Baikal Autonomy Terrytory ♿</h3>
+
+<p align="center">
+  <img src="assets/certificates/icpc2025-west-siberia.png" width="600" alt="Certificate">
+</p>
+
+<hr>
+
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=podumai&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Podumai's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=podumai&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Podumai's" />
