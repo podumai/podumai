@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
           template: 'classic'
-          base: 'header,metadata,community,repositories'
+          base: 'header,activity,metadata,community,repositories'
           config_timezone: 'UTC'
 
           plugin_languages: 'yes'
