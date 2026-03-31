@@ -31,8 +31,11 @@ jobs:
           plugin_languages_ignored: 'html,css,tex,Makefile'
 
           plugin_habits: 'yes'
-          plugin_habits_charts: 'yes'
+          plugin_habits_from: 200
           plugin_habits_days: 14
+          plugin_habits_charts: 'yes'
+          plugin_habits_trim: 'yes'
+
           plugin_topics: 'yes'
           plugin_topics_mode: 'icons'
           plugin_topics_limit: 15
